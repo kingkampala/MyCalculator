@@ -1,2 +1,2 @@
 # MyCalculator
-simple arithmetic calculator with HTML, CSS and Javascript.
+simple calculator performing basic arithmetic operations. 
